@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+}
+.bl1{
+    display: flex;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+.bl2{
+    border-radius: 10px;
+    background-color: red;
+    width: 100px;
+    border-color: white;
+    margin: 2px;
+}
+#img1{
+    float: right;
+    width: 200px;
+    height: 200x;
+    border: solid blue 1px;
+}
+#img1:hover{
+    width: 300px;
+    border: solid red 1px;
+}
